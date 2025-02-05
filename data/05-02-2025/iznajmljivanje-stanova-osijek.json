@@ -1,0 +1,1282 @@
+[
+  {
+    "id": "45901345",
+    "name": "Stan: Osijek, Bosutsko, Drinska ulica, 27.00 m2",
+    "location": "Osijek, Bosutsko naselje",
+    "Living Area": "27 m2",
+    "price": 400.0,
+    "link": "/nekretnine/stan-osijek-bosutsko-drinska-ulica-27.00-m2-iznajmljivanje-oglas-45901345",
+    "published": "05.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "45886135",
+    "name": "Stan: Osijek, 27.00 m2, PRVI NAJAM",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "27 m2",
+    "price": 450.0,
+    "link": "/nekretnine/stan-osijek-27.00-m2-oglas-45886135",
+    "published": "05.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "9788182",
+    "name": "Centar Osijeka 75 m2 za 2 studirajuće osobe NOVO",
+    "location": "Osijek, Bosutsko naselje",
+    "Living Area": "75 m2",
+    "price": 190.0,
+    "link": "/nekretnine/stan-osijek-39.00-m2-oglas-9788182",
+    "published": "05.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "41630732",
+    "name": "Huttlerovi vrtovi, 51m2 i podzemna garaža - najam",
+    "location": "Osijek, Novi Grad",
+    "Living Area": "51 m2",
+    "price": 650.0,
+    "link": "/nekretnine/stan-osijek-51.00-m2-novogradnja-oglas-41630732",
+    "published": "05.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "39320371",
+    "name": "Stan: Osijek, Gornjodravska obala 55.00 m2",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "55 m2",
+    "price": 470.0,
+    "link": "/nekretnine/stan-osijek-gornjodravska-obala-55.00-m2-oglas-39320371",
+    "published": "05.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "16217984",
+    "name": "Stan: Osijek, 85 m2, kvalitetno uređen, TOP lokacija! Najam",
+    "location": "Osijek, Donji grad",
+    "Living Area": "85 m2",
+    "price": 600.0,
+    "link": "/nekretnine/stan-osijek-85-m2-adaptiran-namjestaj-komforan-oglas-16217984",
+    "published": "05.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "37373933",
+    "name": "Jednosoban renoviran stan u visokom prizemlju",
+    "location": "Osijek, Jug II",
+    "Living Area": "25 m2",
+    "price": 250.0,
+    "link": "/nekretnine/stan-pula-32.00-m2-oglas-37373933",
+    "published": "05.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "45986410",
+    "name": "Dvosoban stan, Gornji grad",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "41.9 m2",
+    "price": 550.0,
+    "link": "/nekretnine/dvosoban-stan-gornji-grad-oglas-45986410",
+    "published": "05.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "45908032",
+    "name": "Stan: Osijek, 58.00 m2 Jug II Kaštelanska ulica.",
+    "location": "Osijek, Jug II",
+    "Living Area": "58 m2",
+    "price": 350.0,
+    "link": "/nekretnine/stan-osijek-36.00-m2-oglas-45908032",
+    "published": "05.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "46006924",
+    "name": "Odlično uređen stan u najužem centru Osijeka !",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "60 m2",
+    "price": 480.0,
+    "link": "/nekretnine/odlicno-ureden-stan-najuzem-centru-osijeka-oglas-46006924",
+    "published": "05.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "45772692",
+    "name": "⭐ALL INCLUSIVE⭐ Osijek centar, 3-soban, 2 parkinga + dvorište + režije",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "65 m2",
+    "price": 750.0,
+    "link": "/nekretnine/stan-osijek-70.00-m2-oglas-45772692",
+    "published": "05.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "46208573",
+    "name": "Stan: Osijek, 36.00 m2",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "36 m2",
+    "price": 270.0,
+    "link": "/nekretnine/stan-osijek-36.00-m2-oglas-46208573",
+    "published": "05.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "45098270",
+    "name": "Dvosoban stan u strogom centru Osijeka (iznajmljivanje)",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "48 m2",
+    "price": 550.0,
+    "link": "/nekretnine/stan-osijek-48.00-m2-oglas-45098270",
+    "published": "05.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "45664971",
+    "name": "Osijek, Novi grad, četverosobni Penthouse 166 m2 s garažnim mjestom",
+    "location": "Osijek, Novi Grad",
+    "Living Area": "174 m2",
+    "price": 1000.0,
+    "link": "/nekretnine/osijek-grad-cetverosobni-penthouse-166-m2-garaznim-mjestom-oglas-45664971",
+    "published": "05.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "46171213",
+    "name": "Stan: Osijek, 80.00 m2",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "80 m2",
+    "price": 200.0,
+    "link": "/nekretnine/stan-osijek-80.00-m2-oglas-46171213",
+    "published": "05.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "44659388",
+    "name": "Stan, Osijek (Drvljanik)",
+    "location": "Osijek, Sjenjak",
+    "Living Area": "36.5 m2",
+    "price": 500.0,
+    "link": "/nekretnine/vijenac-stanka-vraza-oglas-44659388",
+    "published": "04.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "44796600",
+    "name": "Novogradnja, 51 m2",
+    "location": "Osijek, Donji grad",
+    "Living Area": "51 m2",
+    "price": 570.0,
+    "link": "/nekretnine/stan-selska-33-m2-oglas-44796600",
+    "published": "04.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "46071375",
+    "name": "Osijek stan za najam 51m2",
+    "location": "Osijek, Donji grad",
+    "Living Area": "51 m2",
+    "price": 500.0,
+    "link": "/nekretnine/osijek-stan-najam-51m2-oglas-46071375",
+    "published": "04.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "46182226",
+    "name": "Osijek, stan za najam, 42m2, novogradnja ,namješten",
+    "location": "Osijek, Donji grad",
+    "Living Area": "42 m2",
+    "price": 500.0,
+    "link": "/nekretnine/stan-osijek-42.00-m2-novogradnja-oglas-46182226",
+    "published": "04.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "45006683",
+    "name": "LUKSUZAN ČETVEROSOBAN STAN 102m2-garaža, podrum, namješten-ŠIRI CENTAR",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "102 m2",
+    "price": 1300.0,
+    "link": "/nekretnine/luksuzan-cetverosoban-stan-102m2-garaza-podrum-namjesten-siri-centar-oglas-45006683",
+    "published": "04.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "45069400",
+    "name": "MODERNO UREĐEN ČETVEROSOBAN STAN NA 1. KATU!! GARAŽA!!",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "101.59 m2",
+    "price": 1300.0,
+    "link": "/nekretnine/moderno-ureden-cetverosoban-stan-1-katu-garaza-oglas-45069400",
+    "published": "04.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "46169022",
+    "name": "Stan, 34m2- Vij.I. Meštrovića",
+    "location": "Osijek, Vij. Ivana Meštrovića",
+    "Living Area": "34 m2",
+    "price": 400.0,
+    "link": "/nekretnine/stan-34m2-vij-mestrovica-oglas-46169022",
+    "published": "04.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "46178839",
+    "name": "Stan: Osijek, 48.00 m2, novogradnja",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "48 m2",
+    "price": 550.0,
+    "link": "/nekretnine/stan-osijek-48.00-m2-novogradnja-oglas-46178839",
+    "published": "04.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "43195772",
+    "name": "Stan: širi centar Osijeka, 47 m2",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "47 m2",
+    "price": 550.0,
+    "link": "/nekretnine/stan-siri-centar-osijeka-47-m2-oglas-43195772",
+    "published": "04.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "44855228",
+    "name": "NAJAM STANA U CENTRU!! 48,34 M2 + PARKING!! STROSSMAYEROVA 79!! 2. KAT",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "48.34 m2",
+    "price": 550.0,
+    "link": "/nekretnine/najam-stana-centru-48.34-m2-parking-strossmayerova-79-2-kat-oglas-44855228",
+    "published": "04.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "45901345",
+    "name": "Stan: Osijek, Bosutsko, Drinska ulica, 27.00 m2",
+    "location": "Osijek, Bosutsko naselje",
+    "Living Area": "27 m2",
+    "price": 400.0,
+    "link": "/nekretnine/stan-osijek-bosutsko-drinska-ulica-27.00-m2-iznajmljivanje-oglas-45901345",
+    "published": "05.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "45664971",
+    "name": "Osijek, Novi grad, četverosobni Penthouse 166 m2 s garažnim mjestom",
+    "location": "Osijek, Novi Grad",
+    "Living Area": "174 m2",
+    "price": 1000.0,
+    "link": "/nekretnine/osijek-grad-cetverosobni-penthouse-166-m2-garaznim-mjestom-oglas-45664971",
+    "published": "05.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "18701231",
+    "name": "Smještaj (sobe) za radnike, Osijek",
+    "location": "Osijek, Cvjetno naselje",
+    "Living Area": "80 m2",
+    "price": 200.0,
+    "link": "/nekretnine/apartman-potkrovlju-35-m2-blizina-centra-1000-kn-plus-rezije-oglas-18701231",
+    "published": "03.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "29689810",
+    "name": "Stan za najam: Osijek, strogi centar, trosobni, 82.00 m2",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "82 m2",
+    "price": 580.0,
+    "link": "/nekretnine/stan-najam-osijek-strogi-centar-trosobni-82.00-m2-oglas-29689810",
+    "published": "31.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "42087608",
+    "name": "Stan: Osijek, 63.00 m2, novogradnja",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "63 m2",
+    "price": 650.0,
+    "link": "/nekretnine/stan-osijek-63.00-m2-novogradnja-oglas-42087608",
+    "published": "20.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "43425374",
+    "name": "SMJEŠTAJ ZA RADNIKE - 2 odvojena stana po 100m2",
+    "location": "Osijek, Industrijska zona (Čepinska)",
+    "Living Area": "200 m2",
+    "price": 180.0,
+    "link": "/nekretnine/stan-osijek-200-m2-smjestaj-radnike-oglas-43425374",
+    "published": "14.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "45037740",
+    "name": "Osijek, centar, luksuzan četverosoban stan površine 116 m2, PRVI NAJAM",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "117 m2",
+    "price": 2000.0,
+    "link": "/nekretnine/osijek-centar-luksuzan-cetverosoban-stan-povrsine-116-m2-prvi-najam-oglas-45037740",
+    "published": "04.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "45703093",
+    "name": "Iznajmljujem trosoban stan, 83 m2, Gornjoodravska obala",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "83 m2",
+    "price": 650.0,
+    "link": "/nekretnine/stan-osijek-33.00-m2-oglas-45703093",
+    "published": "04.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "45915377",
+    "name": "Stan u Osijeku, Sjenjak, 75.00 m2, novogradnja",
+    "location": "Osijek, Sjenjak",
+    "Living Area": "75 m2",
+    "price": 600.0,
+    "link": "/nekretnine/stan-osijek-75.00-m2-novogradnja-oglas-45915377",
+    "published": "04.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "46159725",
+    "name": "Iznajmljujem 3-s stan u Osijeku, Gacka ul., 94.00 m2, novo",
+    "location": "Osijek, Bosutsko naselje",
+    "Living Area": "94 m2",
+    "price": 400.0,
+    "link": "/nekretnine/iznajmljujem-3-stan-osijeku-gacka-ul-94.00-m2-oglas-46159725",
+    "published": "04.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "46174134",
+    "name": "Stan: Osijek, 48.00 m2",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "48 m2",
+    "price": 500.0,
+    "link": "/nekretnine/stan-osijek-48.00-m2-oglas-46174134",
+    "published": "03.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "45027393",
+    "name": "Luksuzno opremljen stan u centru Osijeka, 50.00 m2",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "50 m2",
+    "price": 500.0,
+    "link": "/nekretnine/stan-osijek-50.00-m2-oglas-45027393",
+    "published": "03.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "45941526",
+    "name": "Osijek, 72.00 m2, 2-soban komforan stan, Gornjoidravska obala",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "72 m2",
+    "price": 600.0,
+    "link": "/nekretnine/osijek-72.00-m2-2-soban-komforan-stan-gornjoidravska-obala-oglas-45941526",
+    "published": "03.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "45809865",
+    "name": "Iznajmljujem stan",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "99.5 m2",
+    "price": 640.0,
+    "link": "/nekretnine/iznajmljujem-stan-oglas-45809865",
+    "published": "03.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "18701231",
+    "name": "Smještaj (sobe) za radnike, Osijek",
+    "location": "Osijek, Cvjetno naselje",
+    "Living Area": "80 m2",
+    "price": 200.0,
+    "link": "/nekretnine/apartman-potkrovlju-35-m2-blizina-centra-1000-kn-plus-rezije-oglas-18701231",
+    "published": "03.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "44977092",
+    "name": "IZNAJMLJUJE SE PROSTRANI STAN  OD 178 M2 U SAMOM CENTRU GRADA OSIJEKA",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "178 m2",
+    "price": 1500.0,
+    "link": "/nekretnine/iznajmljuje-se-prostrani-stan-178-m2-samom-centru-grada-osijeka-oglas-44977092",
+    "published": "03.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "46168893",
+    "name": "Veliki stan za studente/ radnike",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "77 m2",
+    "price": 600.0,
+    "link": "/nekretnine/veliki-stan-studente-radnike-oglas-46168893",
+    "published": "03.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "46168788",
+    "name": "NAJAM, PROSTRANA MODERNA GARSONIJERA, 34M2, OSIJEK (CENTAR), 450€",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "34 m2",
+    "price": 450.0,
+    "link": "/nekretnine/najam-prostrana-moderna-garsonijera-34m2-osijek-centar-450-oglas-46168788",
+    "published": "03.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "45167775",
+    "name": "Stan: Osijek, 56.00 m2",
+    "location": "Osijek, Vij. Ivana Meštrovića",
+    "Living Area": "56 m2",
+    "price": 650.0,
+    "link": "/nekretnine/stan-osijek-56.00-m2-oglas-45167775",
+    "published": "03.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "45941299",
+    "name": "Stan: Osijek, 65.00 m2",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "60 m2",
+    "price": 100.0,
+    "link": "/nekretnine/stan-osijek-60.00-m2-oglas-45941299",
+    "published": "03.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "39102435",
+    "name": "Dvosobni stan 46m2 u novoizgrađenoj stambenoj zgradi.",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "46 m2",
+    "price": 550.0,
+    "link": "/nekretnine/dvosobni-stan-46m2-novoizgradenoj-stambenoj-zgradi-oglas-39102435",
+    "published": "02.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "38515139",
+    "name": "Trosoban stan u centru Osijeka, 58m2",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "58.76 m2",
+    "price": 600.0,
+    "link": "/nekretnine/trosoban-stan-centru-osijeka-58m2-oglas-38515139",
+    "published": "02.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "46166250",
+    "name": "Stan: Osijek, 56.00 m2",
+    "location": "Osijek, Sjenjak",
+    "Living Area": "56 m2",
+    "price": 350.0,
+    "link": "/nekretnine/stan-osijek-56.00-m2-oglas-46166250",
+    "published": "02.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "46163021",
+    "name": "Iznajmljuje se stan u Osijeku",
+    "location": "Osijek, Retfala",
+    "Living Area": "65 m2",
+    "price": 500.0,
+    "link": "/nekretnine/iznajmljuje-se-stan-osijeku-oglas-46163021",
+    "published": "02.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "44398491",
+    "name": "Iznajmljujem jednosoban komforan stan 35m2",
+    "location": "Osijek, Jug II",
+    "Living Area": "35 m2",
+    "price": 300.0,
+    "link": "/nekretnine/iznajmljujem-jednosoban-komforan-stan-35m2-oglas-44398491",
+    "published": "01.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "46154520",
+    "name": "Stan: Osijek, 200.00 m2",
+    "location": "Osijek, Jug II",
+    "Living Area": "20 m2",
+    "price": 250.0,
+    "link": "/nekretnine/stan-osijek-200.00-m2-oglas-46154520",
+    "published": "01.02.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "39378049",
+    "name": "Iznajmljujem kuću za do 9 radnika 95m2",
+    "location": "Osijek, Retfala",
+    "Living Area": "95 m2",
+    "price": 140.0,
+    "link": "/nekretnine/iznajmljujem-stan-osijeku-ukljucenim-rezijama-oglas-39378049",
+    "published": "31.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "45755962",
+    "name": "Dvosoban stan, Gornji grad",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "38 m2",
+    "price": 800.0,
+    "link": "/nekretnine/dvosoban-stan-gornji-grad-oglas-45755962",
+    "published": "31.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "29689810",
+    "name": "Stan za najam: Osijek, strogi centar, trosobni, 82.00 m2",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "82 m2",
+    "price": 580.0,
+    "link": "/nekretnine/stan-najam-osijek-strogi-centar-trosobni-82.00-m2-oglas-29689810",
+    "published": "31.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "39836040",
+    "name": "Iznajmljujem stan na Sjenjaku!!!",
+    "location": "Osijek, Sjenjak",
+    "Living Area": "61.36 m2",
+    "price": 500.0,
+    "link": "/nekretnine/iznajmljujem-3-sobni-stan-sjenjaku-oglas-39836040",
+    "published": "31.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "46134082",
+    "name": "Stan 3 sob: Osijek, Centar",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "75 m2",
+    "price": 700.0,
+    "link": "/nekretnine/stan-osijek-75.00-m2-oglas-46134082",
+    "published": "31.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "46146419",
+    "name": "Osijek, Bosutsko naselje, NAJAM 4s stan s dvorištem i dodatnim sadržaj",
+    "location": "Osijek, Bosutsko naselje",
+    "Living Area": "145 m2",
+    "price": 1300.0,
+    "link": "/nekretnine/osijek-bosutsko-naselje-najam-4s-stan-dvoristem-dodatnim-sadrzaj-oglas-46146419",
+    "published": "31.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "40912829",
+    "name": "Stan: Osijek, 27.00 m2",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "27 m2",
+    "price": 300.0,
+    "link": "/nekretnine/stan-osijek-27.00-m2-oglas-40912829",
+    "published": "30.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "45007323",
+    "name": "LUKSUZNI TROSOBAN STAN 85m2!KOMPLETNO NAMJEŠTEN! NATKRIVENI PARKING!",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "85 m2",
+    "price": 1300.0,
+    "link": "/nekretnine/luksuzni-trosoban-stan-85m2-kompletno-namjesten-natkriveni-parking-oglas-45007323",
+    "published": "30.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "44936794",
+    "name": "Stan: Osijek, 30.00 m2, novogradnja",
+    "location": "Osijek, Donji grad",
+    "Living Area": "30 m2",
+    "price": 400.0,
+    "link": "/nekretnine/stan-osijek-30.00-m2-novogradnja-oglas-44936794",
+    "published": "30.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "46140687",
+    "name": "OSIJEK, CENTAR, 3-soban moderno uređeni stan za najam,TOP LOKACIJA!",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "75 m2",
+    "price": 700.0,
+    "link": "/nekretnine/osijek-centar-3-sobni-moderno-uredeni-stan-najam-top-lokacija-oglas-46140687",
+    "published": "30.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "44996185",
+    "name": "Stan: Osijek, 35.00 m2",
+    "location": "Osijek, Novi Grad",
+    "Living Area": "36 m2",
+    "price": 380.0,
+    "link": "/nekretnine/stan-osijek-35.00-m2-oglas-44996185",
+    "published": "29.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "45931025",
+    "name": "Osijek, Retfala, NAJAM, novi i kompletno uređen četverosoban stan, 2 k",
+    "location": "Osijek, Retfala",
+    "Living Area": "86.55 m2",
+    "price": 1350.0,
+    "link": "/nekretnine/osijek-retfala-najam-kompletno-ureden-cetverosoban-stan-2-k-oglas-45931025",
+    "published": "29.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "39819371",
+    "name": "NAJAM!! DVOSOBAN 47M2!! CENTAR!! 500 EURA+REŽIJE!!",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "47 m2",
+    "price": 500.0,
+    "link": "/nekretnine/najam-dvosoban-47m2-centar-500-eura-rezije-oglas-39819371",
+    "published": "28.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "36499665",
+    "name": "Stan: Osijek, 47.00 m2 (za jednog studenta)",
+    "location": "Osijek, Vij. Ivana Meštrovića",
+    "Living Area": "47 m2",
+    "price": 140.0,
+    "link": "/nekretnine/stan-osijek-46.00-m2-oglas-36499665",
+    "published": "28.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "28798553",
+    "name": "Stan za najam: Osijek, strogi centar, dvosobni 45.00 m2",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "45 m2",
+    "price": 500.0,
+    "link": "/nekretnine/stan-najam-osijek-centar-dvosobni-45.00-m2-oglas-28798553",
+    "published": "28.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "46121390",
+    "name": "Stan: Osijek, 50.00 m2",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "50 m2",
+    "price": 450.0,
+    "link": "/nekretnine/stan-osijek-50.00-m2-oglas-46121390",
+    "published": "28.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "45883936",
+    "name": "Dvoipolsobni stan za najam, 54 m2, 1.kat, Bračka",
+    "location": "Osijek, Jug I",
+    "Living Area": "54.12 m2",
+    "price": 450.0,
+    "link": "/nekretnine/dvoipolsobni-stan-najam-54-m2-1-kat-bracka-oglas-45883936",
+    "published": "27.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "44856898",
+    "name": "Stan: Osijek, 65m², režije uključene u cijenu najma",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "65 m2",
+    "price": 650.0,
+    "link": "/nekretnine/studente-stan-osijeku-600-eura-ukljucenim-rezijama-oglas-44856898",
+    "published": "27.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "40267584",
+    "name": "IZNAJMLJUJEM STAN",
+    "location": "Osijek, Donji grad",
+    "Living Area": "64 m2",
+    "price": 700.0,
+    "link": "/nekretnine/iznajmljujem-stan-oglas-40267584",
+    "published": "26.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "45973470",
+    "name": "Stan: Osijek, 72.00 m2",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "72 m2",
+    "price": 500.0,
+    "link": "/nekretnine/stan-osijek-72.00-m2-oglas-45973470",
+    "published": "26.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "46074332",
+    "name": "Stan: Osijek, 50.06 m2",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "50.06 m2",
+    "price": 550.0,
+    "link": "/nekretnine/stan-osijek-50.06-m2-oglas-46074332",
+    "published": "23.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "46069647",
+    "name": "Osijek, Centar – Najam prekrasnog Penthousea na 3. katu s velikom tera",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "152.2 m2",
+    "price": 1875.0,
+    "link": "/nekretnine/osijek-centar-najam-prekrasnog-penthousea-3-katu-velikom-tera-oglas-46069647",
+    "published": "23.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "45022487",
+    "name": "Stan: Osijek, centar, četverosobni, 143 m2 s garažom",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "143 m2",
+    "price": 1300.0,
+    "link": "/nekretnine/stan-osijek-centar-cetverosobni-143-m2-garazom-oglas-45022487",
+    "published": "21.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "46046317",
+    "name": "Osijek, Retfala, NAJAM, novi i kompletno uređen četverosoban stan, 1 k",
+    "location": "Osijek, Retfala",
+    "Living Area": "86.55 m2",
+    "price": 1350.0,
+    "link": "/nekretnine/osijek-retfala-najam-kompletno-ureden-cetverosoban-stan-1-k-oglas-46046317",
+    "published": "21.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "42087608",
+    "name": "Stan: Osijek, 63.00 m2, novogradnja",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "63 m2",
+    "price": 650.0,
+    "link": "/nekretnine/stan-osijek-63.00-m2-novogradnja-oglas-42087608",
+    "published": "20.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "36385641",
+    "name": "Sjenjak 101 trosoban Stan: Osijek",
+    "location": "Osijek, Sjenjak",
+    "Living Area": "70 m2",
+    "price": 800.0,
+    "link": "/nekretnine/stan-osijek-51.00-m2-oglas-36385641",
+    "published": "20.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "44523990",
+    "name": "Stan: Osijek, 30.00 m2, novogradnja",
+    "location": "Osijek, Retfala",
+    "Living Area": "30 m2",
+    "price": 500.0,
+    "link": "/nekretnine/stan-osijek-30.00-m2-novogradnja-oglas-44523990",
+    "published": "19.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "43756832",
+    "name": "Stan: Osijek, 70 m2, trosoban, kružni tok u centru (najam)",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "69.88 m2",
+    "price": 450.0,
+    "link": "/nekretnine/stan-osijek-78m2-trosoban-kruzni-tok-centru-najam-oglas-43756832",
+    "published": "18.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "21395584",
+    "name": "DVOSOBNI NAMJEŠTENI STAN U CENTRU",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "55 m2",
+    "price": 450.0,
+    "link": "/nekretnine/dvosobni-namjesteni-stan-centru-oglas-21395584",
+    "published": "18.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "46018768",
+    "name": "Najam stana u Osijeku - prvi najam - novogradnja 70m2",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "70 m2",
+    "price": 700.0,
+    "link": "/nekretnine/najam-stana-osijeku-prvi-najam-novogradnja-70m2-oglas-46018768",
+    "published": "18.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "41414379",
+    "name": "Luksuzni stan za najam 144m2 (sauna, jacuzzi, garaža, kamin)",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "102 m2",
+    "price": 1300.0,
+    "link": "/nekretnine/luksuzni-stan-najam-sauna-jacuzzi-zvj-nebo-relax-fotelje-oglas-41414379",
+    "published": "16.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "7467422",
+    "name": "Stan: Osijek, 34 m2",
+    "location": "Osijek, Jug II",
+    "Living Area": "34 m2",
+    "price": 300.0,
+    "link": "/nekretnine/stan-osijek-33-m2-oglas-7467422",
+    "published": "16.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "45985884",
+    "name": "Stan: Osijek, 55.00 m2, novogradnja",
+    "location": "Osijek, Retfala",
+    "Living Area": "55 m2",
+    "price": 650.0,
+    "link": "/nekretnine/stan-osijek-55.00-m2-novogradnja-oglas-45985884",
+    "published": "14.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "43425374",
+    "name": "SMJEŠTAJ ZA RADNIKE - 2 odvojena stana po 100m2",
+    "location": "Osijek, Industrijska zona (Čepinska)",
+    "Living Area": "200 m2",
+    "price": 180.0,
+    "link": "/nekretnine/stan-osijek-200-m2-smjestaj-radnike-oglas-43425374",
+    "published": "14.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "45980726",
+    "name": "Stan: Osijek, 36.00 m2",
+    "location": "Osijek, Retfala",
+    "Living Area": "36 m2",
+    "price": 450.0,
+    "link": "/nekretnine/stan-osijek-36.00-m2-oglas-45980726",
+    "published": "13.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "44760551",
+    "name": "Smještaj za radnike Osijek",
+    "location": "Osijek, Jug II",
+    "Living Area": "140 m2",
+    "price": 220.0,
+    "link": "/nekretnine/stan-osijek-140.00-m2-oglas-44760551",
+    "published": "13.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "45972270",
+    "name": "Iznajmljujem garsonjeru za studente",
+    "location": "Osijek, Novi Grad",
+    "Living Area": "25 m2",
+    "price": 250.0,
+    "link": "/nekretnine/iznajmljujem-garsonjeru-studente-oglas-45972270",
+    "published": "12.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "17910878",
+    "name": "Namješten dvosobni stan 56m2 (Naselje V. Nazora)",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "56 m2",
+    "price": 400.0,
+    "link": "/nekretnine/namjesten-dvosobni-stan-56m2-naselje-v-nazora-oglas-17910878",
+    "published": "12.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "41617290",
+    "name": "IZNAJMLJENO !",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "55 m2",
+    "price": 300.0,
+    "link": "/nekretnine/stan-osijek-centar-52.00-m2-novogradnja-sve-parking-mjesto-oglas-41617290",
+    "published": "11.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "44973454",
+    "name": "Peterosoban stan, Kapucinska ulica",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "128 m2",
+    "price": 1.0,
+    "link": "/nekretnine/peterosoban-stan-kapucinska-ulica-oglas-44973454",
+    "published": "11.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "45964673",
+    "name": "Iznajmljujem stan, 120 metara kvadratnih sa balkonom. Ulica Stjepana R",
+    "location": "Osijek, Industrijska četvrt",
+    "Living Area": "120 m2",
+    "price": 500.0,
+    "link": "/nekretnine/iznajmljujem-stan-120-metara-kvadratnih-balkonom-ulica-stjepana-r-oglas-45964673",
+    "published": "11.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "44726439",
+    "name": "Sobe najam Blizina Campusa",
+    "location": "Osijek, Jug I",
+    "Living Area": "80 m2",
+    "price": 150.0,
+    "link": "/nekretnine/stan-osijek-80.00-m2-oglas-44726439",
+    "published": "10.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "4599698",
+    "name": "STAN JE IZNAJMLJEN ! P. Svačića, 44 m2, 1. kat",
+    "location": "Osijek, Novi Grad",
+    "Living Area": "44 m2",
+    "price": 350.0,
+    "link": "/nekretnine/stan-osijek-44-m2-oglas-4599698",
+    "published": "10.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "40707283",
+    "name": "SMJEŠTAJ ZA RADNIKE, OSIJEK, 125 M2 - 9 RADNIKA",
+    "location": "Osijek, Industrijska zona (Čepinska)",
+    "Living Area": "125 m2",
+    "price": 180.0,
+    "link": "/nekretnine/smjestaj-radnike-7-radnika-1.000-eura-oglas-40707283",
+    "published": "09.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "38840585",
+    "name": "REZERVIRANO. Stan Osijek, Vij. Ivana Meštrovića, 43.00 m2",
+    "location": "Osijek, Vij. Ivana Meštrovića",
+    "Living Area": "43 m2",
+    "price": 300.0,
+    "link": "/nekretnine/stan-osijek-43.00-m2-oglas-38840585",
+    "published": "08.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "45474974",
+    "name": "Moderno opremljen Apartman 60m2 za poslovni najam u centru Osijeka",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "60 m2",
+    "price": 850.0,
+    "link": "/nekretnine/moderno-opremljen-stan-60m2-najam-firmama-centru-osijeka-oglas-45474974",
+    "published": "04.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "18283918",
+    "name": "Potpuno namješten stan u Osijeku, 43 m2",
+    "location": "Osijek, Donji grad",
+    "Living Area": "43 m2",
+    "price": 290.0,
+    "link": "/nekretnine/stan-osijek-43-m2-oglas-18283918",
+    "published": "04.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "45904584",
+    "name": "Četverosoban dvoetažni stan - Divaltova (Osijek)",
+    "location": "Osijek, Novi Grad",
+    "Living Area": "165.75 m2",
+    "price": 1000.0,
+    "link": "/nekretnine/cetverosoban-dvoetazni-stan-divaltova-osijek-oglas-45904584",
+    "published": "04.01.2025.",
+    "detailCheck": false
+  },
+  {
+    "id": "45886601",
+    "name": "Iznajmljujem trosoban stan u centru grada 92m2 i terasa 25m2",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "92 m2",
+    "price": 450.0,
+    "link": "/nekretnine/iznajmljujem-trosoban-stan-centru-grada-92m2-terasa-25m2-oglas-45886601",
+    "published": "31.12.2024.",
+    "detailCheck": false
+  },
+  {
+    "id": "34458475",
+    "name": "Stan: Osijek, 35.00 m2",
+    "location": "Osijek, Sjenjak",
+    "Living Area": "35 m2",
+    "price": 450.0,
+    "link": "/nekretnine/stan-osijek-35.00-m2-oglas-34458475",
+    "published": "28.12.2024.",
+    "detailCheck": false
+  },
+  {
+    "id": "45638834",
+    "name": "Stan: Osijek, 62.00 m2",
+    "location": "Osijek, Donji grad",
+    "Living Area": "62 m2",
+    "price": 550.0,
+    "link": "/nekretnine/stan-osijek-62.00-m2-oglas-45638834",
+    "published": "22.12.2024.",
+    "detailCheck": false
+  },
+  {
+    "id": "45115920",
+    "name": "Stan: Osijek, Retfala, 40.00 m2",
+    "location": "Osijek, Retfala",
+    "Living Area": "40 m2",
+    "price": 150.0,
+    "link": "/nekretnine/stan-osijek-40.00-m2-oglas-45115920",
+    "published": "21.12.2024.",
+    "detailCheck": false
+  },
+  {
+    "id": "43525118",
+    "name": "Studentki smjestaj ili za radnike u Četverosobnom stanu u centru",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "35 m2",
+    "price": 200.0,
+    "link": "/nekretnine/dvosoban-stan-centru-osijeka-oglas-43525118",
+    "published": "21.12.2024.",
+    "detailCheck": false
+  },
+  {
+    "id": "45821921",
+    "name": "Luksuzan dvosoban stan - širi centar Osijeka",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "64.47 m2",
+    "price": 1100.0,
+    "link": "/nekretnine/luksuzan-dvosoban-stan-siri-centar-osijeka-oglas-45821921",
+    "published": "20.12.2024.",
+    "detailCheck": false
+  },
+  {
+    "id": "45801894",
+    "name": "Stan: Osijek, 59.00 m2",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "59.05 m2",
+    "price": 600.0,
+    "link": "/nekretnine/stan-osijek-59.00-m2-oglas-45801894",
+    "published": "17.12.2024.",
+    "detailCheck": false
+  },
+  {
+    "id": "16387175",
+    "name": "IZNAJMLJENO Sjenjak, novo uređen dvosobni stan",
+    "location": "Osijek, Sjenjak",
+    "Living Area": "55 m2",
+    "price": 500.0,
+    "link": "/nekretnine/stan-osijek-55-m2-oglas-16387175",
+    "published": "10.12.2024.",
+    "detailCheck": false
+  },
+  {
+    "id": "44962954",
+    "name": "Trosoban stan, Gornji grad",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "105 m2",
+    "price": 1.0,
+    "link": "/nekretnine/trosoban-stan-gornji-grad-oglas-44962954",
+    "published": "06.12.2024.",
+    "detailCheck": false
+  },
+  {
+    "id": "45443298",
+    "name": "Najam poslovnog ili stambenog prostora, strogi centar Osijeka, 155 m2",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "155 m2",
+    "price": 1500.0,
+    "link": "/nekretnine/najam-poslovnog-ili-stambenog-prostora-strogi-centar-osijeka-155-m2-oglas-45443298",
+    "published": "12.11.2024.",
+    "detailCheck": false
+  },
+  {
+    "id": "39517632",
+    "name": "Trosoban stan- strogi centar",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "80 m2",
+    "price": 650.0,
+    "link": "/nekretnine/trosoban-stan-strogi-centar-oglas-39517632",
+    "published": "24.10.2024.",
+    "detailCheck": false
+  },
+  {
+    "id": "32954980",
+    "name": "Stan: Osijek, 77.00 m2",
+    "location": "Osijek, Cvjetno naselje",
+    "Living Area": "77 m2",
+    "price": 500.0,
+    "link": "/nekretnine/stan-osijek-77.00-m2-oglas-32954980",
+    "published": "23.10.2024.",
+    "detailCheck": false
+  },
+  {
+    "id": "45187265",
+    "name": "Stan: Osijek, 146.00 m2, novogradnja",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "146 m2",
+    "price": 1345.0,
+    "link": "/nekretnine/stan-osijek-146.00-m2-novogradnja-oglas-45187265",
+    "published": "16.10.2024.",
+    "detailCheck": false
+  },
+  {
+    "id": "45193064",
+    "name": "Stan: Osijek, 150.00 m2",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "150 m2",
+    "price": 800.0,
+    "link": "/nekretnine/stan-osijek-150.00-m2-oglas-45193064",
+    "published": "13.10.2024.",
+    "detailCheck": false
+  },
+  {
+    "id": "45143461",
+    "name": "Stan: Trosoban stan za najam, V. I. Meštrovića, Osijek, 72.00 m2",
+    "location": "Osijek, Vij. Ivana Meštrovića",
+    "Living Area": "72 m2",
+    "price": 900.0,
+    "link": "/nekretnine/stan-osijek-72.00-m2-oglas-45143461",
+    "published": "09.10.2024.",
+    "detailCheck": false
+  },
+  {
+    "id": "43099487",
+    "name": "Stan 180m2 Europske avenije 10 , Osijek",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "180 m2",
+    "price": 850.0,
+    "link": "/nekretnine/stan-120-m2-europske-avenije-10-osijek-oglas-43099487",
+    "published": "02.10.2024.",
+    "detailCheck": false
+  },
+  {
+    "id": "44930926",
+    "name": "Stan: Osijek, 71.00 m2",
+    "location": "Osijek, Vij. Ivana Meštrovića",
+    "Living Area": "71 m2",
+    "price": 512.0,
+    "link": "/nekretnine/stan-osijek-71.00-m2-oglas-44930926",
+    "published": "01.10.2024.",
+    "detailCheck": false
+  },
+  {
+    "id": "44490771",
+    "name": "Trosoban stan za radnike, Vukovarska ulica",
+    "location": "Osijek, Sjenjak",
+    "Living Area": "58 m2",
+    "price": 250.0,
+    "link": "/nekretnine/trosoban-stan-radnike-vukovarska-ulica-oglas-44490771",
+    "published": "08.09.2024.",
+    "detailCheck": false
+  },
+  {
+    "id": "44788172",
+    "name": "Stan: Osijek, 62.00 m2 REZERVIRAN",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "62 m2",
+    "price": 480.0,
+    "link": "/nekretnine/stan-osijek-62.00-m2-oglas-44788172",
+    "published": "28.08.2024.",
+    "detailCheck": false
+  },
+  {
+    "id": "44770576",
+    "name": "Stan: Osijek, 18.00 m2",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "18 m2",
+    "price": 190.0,
+    "link": "/nekretnine/stan-osijek-18.00-m2-oglas-44770576",
+    "published": "28.08.2024.",
+    "detailCheck": false
+  },
+  {
+    "id": "39175909",
+    "name": "Iznajmljujem stan",
+    "location": "Osijek, Donji grad",
+    "Living Area": "250 m2",
+    "price": 1500.0,
+    "link": "/nekretnine/iznajmljujem-stan-oglas-39175909",
+    "published": "19.08.2024.",
+    "detailCheck": false
+  },
+  {
+    "id": "44723960",
+    "name": "Stan u centru donjeg grada",
+    "location": "Osijek, Donji grad",
+    "Living Area": "40 m2",
+    "price": 300.0,
+    "link": "/nekretnine/stan-centru-donjeg-grada-oglas-44723960",
+    "published": "19.08.2024.",
+    "detailCheck": false
+  },
+  {
+    "id": "43495366",
+    "name": "Poslovno- stambeni peterosobni stan za najam u centru Osijeka 178m2",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "178 m2",
+    "price": 1000.0,
+    "link": "/nekretnine/poslovno-stambeni-peterosobni-stan-najam-centru-osijeka-178m2-oglas-43495366",
+    "published": "11.06.2024.",
+    "detailCheck": false
+  },
+  {
+    "id": "39054345",
+    "name": "Dvosoban stan-45m2, 1.kat /  Gornji grad",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "45 m2",
+    "price": 550.0,
+    "link": "/nekretnine/dvosoban-stan-45m2-1-kat-gornji-grad-oglas-39054345",
+    "published": "27.04.2024.",
+    "detailCheck": false
+  },
+  {
+    "id": "42832549",
+    "name": "Stan za najam u Osijeku, Kanižlićeva ulica",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "130 m2",
+    "price": 2000.0,
+    "link": "/nekretnine/stan-najam-osijeku-kanizliceva-ulica-oglas-42832549",
+    "published": "03.04.2024.",
+    "detailCheck": false
+  },
+  {
+    "id": "42635159",
+    "name": "Stan za radnike, širi centar",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "137 m2",
+    "price": 1.0,
+    "link": "/nekretnine/stan-radnike-siri-centar-oglas-42635159",
+    "published": "02.04.2024.",
+    "detailCheck": false
+  },
+  {
+    "id": "42257378",
+    "name": "Dvosoban stan +dvorište, novogradnja",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "75 m2",
+    "price": 800.0,
+    "link": "/nekretnine/dvosoban-stan-dvoriste-novogradnja-oglas-42257378",
+    "published": "02.04.2024.",
+    "detailCheck": false
+  },
+  {
+    "id": "38719413",
+    "name": "Trosobni stan, 1. kat, novogradnja; centar",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "100 m2",
+    "price": 1330.0,
+    "link": "/nekretnine/trosobni-stan-1-kat-novogradnja-centar-oglas-38719413",
+    "published": "02.04.2024.",
+    "detailCheck": false
+  },
+  {
+    "id": "37381118",
+    "name": "Dvosoban stan, Centar",
+    "location": "Osijek, Gornji grad / Centar",
+    "Living Area": "80 m2",
+    "price": 800.0,
+    "link": "/nekretnine/dvosoban-stan-centar-oglas-37381118",
+    "published": "02.04.2024.",
+    "detailCheck": false
+  }
+]

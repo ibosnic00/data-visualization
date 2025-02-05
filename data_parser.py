@@ -33,8 +33,7 @@ def filter_by_living_area(data, min_rent_amount, max_rent_amount):
         '51 - 65 m2': [],
         '66 - 80 m2': [],
         '81 - 100 m2': [],
-        '101 - 120 m2': [],
-        '121+ m2': []
+        '101+ m2': [],
     }
 
     for entry in data:
@@ -57,10 +56,8 @@ def filter_by_living_area(data, min_rent_amount, max_rent_amount):
             ranges['66 - 80 m2'].append((city, neighborhood, price))
         elif living_area <= 100:
             ranges['81 - 100 m2'].append((city, neighborhood, price))
-        elif living_area <= 120:
-            ranges['101 - 120 m2'].append((city, neighborhood, price))
         else:
-            ranges['121+ m2'].append((city, neighborhood, price))
+            ranges['101+ m2'].append((city, neighborhood, price))
     
     return ranges
 
@@ -74,13 +71,14 @@ def calculate_average_rent(ranges):
         city_name = ''
         
         for city, neighborhood, price in entries:
+            city_or_neighborhood = city 
             if not city_name and city:  # Store the city name for the title
                 city_name = city
-            if neighborhood not in location_rents:
-                location_rents[neighborhood] = []
-                location_counts[neighborhood] = 0
-            location_rents[neighborhood].append(price)
-            location_counts[neighborhood] += 1
+            if city_or_neighborhood not in location_rents:
+                location_rents[city_or_neighborhood] = []
+                location_counts[city_or_neighborhood] = 0
+            location_rents[city_or_neighborhood].append(price)
+            location_counts[city_or_neighborhood] += 1
         
         # Calculate average rents and store with city name and counts
         average_rents[range_key] = {
@@ -193,13 +191,14 @@ def calculate_rent_statistics(ranges):
         city_name = ''
         
         for city, neighborhood, price in entries:
+            city_or_neighborhood = city 
             if not city_name and city:
                 city_name = city
-            if neighborhood not in location_rents:
-                location_rents[neighborhood] = []
-                location_counts[neighborhood] = 0
-            location_rents[neighborhood].append(price)
-            location_counts[neighborhood] += 1
+            if city_or_neighborhood not in location_rents:
+                location_rents[city_or_neighborhood] = []
+                location_counts[city_or_neighborhood] = 0
+            location_rents[city_or_neighborhood].append(price)
+            location_counts[city_or_neighborhood] += 1
         
         # Calculate average, minimum and median rents
         rent_stats[range_key] = {
@@ -223,14 +222,15 @@ def calculate_overall_statistics(data, min_rent_amount, max_rent_amount):
             continue
             
         city, neighborhood = parse_location(entry["location"])
+        city_or_neighborhood = city
         price = entry["price"]
         living_area = parse_living_area(entry["Living Area"])
         
         if not city_name and city:
             city_name = city
             
-        if neighborhood not in location_data:
-            location_data[neighborhood] = {
+        if city_or_neighborhood not in location_data:
+            location_data[city_or_neighborhood] = {
                 'prices': [],
                 'areas': [],
                 'count': 0,
@@ -238,12 +238,12 @@ def calculate_overall_statistics(data, min_rent_amount, max_rent_amount):
             }
             
         # Update min_price_area if this is the lowest price seen for this neighborhood
-        if not location_data[neighborhood]['prices'] or price < min(location_data[neighborhood]['prices']):
-            location_data[neighborhood]['min_price_area'] = living_area
+        if not location_data[city_or_neighborhood]['prices'] or price < min(location_data[city_or_neighborhood]['prices']):
+            location_data[city_or_neighborhood]['min_price_area'] = living_area
             
-        location_data[neighborhood]['prices'].append(price)
-        location_data[neighborhood]['areas'].append(living_area)
-        location_data[neighborhood]['count'] += 1
+        location_data[city_or_neighborhood]['prices'].append(price)
+        location_data[city_or_neighborhood]['areas'].append(living_area)
+        location_data[city_or_neighborhood]['count'] += 1
     
     # Calculate statistics
     stats = {
@@ -313,14 +313,14 @@ def find_duplicate_properties(data, price_threshold=0.1, area_threshold=0.1):
     
     return duplicates
 
-def remove_duplicates(data, price_threshold=0.08, area_threshold=0.1):
+def remove_duplicates(data, price_threshold=0.01, area_threshold=0.01):
     """
     Remove duplicate properties from the dataset, keeping the first occurrence.
     
     Args:
         data (list): List of property dictionaries
-        price_threshold (float): Maximum allowed price difference (default: 0.08 or 8%)
-        area_threshold (float): Maximum allowed area difference (default: 0.1 or 10%)
+        price_threshold (float): Maximum allowed price difference (default: 0.05 or 5%)
+        area_threshold (float): Maximum allowed area difference (default: 0.01 or 1%)
     
     Returns:
         list: List of property dictionaries with duplicates removed
@@ -330,21 +330,27 @@ def remove_duplicates(data, price_threshold=0.08, area_threshold=0.1):
     
     # Print information about removed duplicates
     if duplicates:
-        print(f"\nFound {len(duplicates)} duplicate properties:")
+        if verbose:
+            print(f"\nFound {len(duplicates)} duplicate properties:")
         for i, j in duplicates:
             prop1, prop2 = data[i], data[j]
-            print(f"Duplicate: {prop2['location']} - {prop2['Living Area']} - €{prop2['price']}")
-            print(f"Original: {prop1['location']} - {prop1['Living Area']} - €{prop1['price']}\n")
+            if verbose:
+                print(f"Duplicate: {prop2['location']} - {prop2['Living Area']} - €{prop2['price']}")
+                print(f"Link: https://www.njuskalo.hr{prop2.get('link', 'No link available')}")
+                print(f"Original: {prop1['location']} - {prop1['Living Area']} - €{prop1['price']}")
+                print(f"Link: https://www.njuskalo.hr{prop1.get('link', 'No link available')}\n")
     else:
-        print("\nNo duplicate properties found.")
+        if verbose:
+            print("\nNo duplicate properties found.")
     
     deduplicated = [prop for i, prop in enumerate(data) if i not in duplicate_indices]
-    print(f"Removed {len(data) - len(deduplicated)} duplicate properties.")
-    print(f"Dataset size reduced from {len(data)} to {len(deduplicated)} properties.\n")
+    if verbose:
+        print(f"Removed {len(data) - len(deduplicated)} duplicate properties.")
+        print(f"Dataset size reduced from {len(data)} to {len(deduplicated)} properties.\n")
     
     return deduplicated
 
-def prepare_visualization_data(file_name, min_rent_amount, max_rent_amount, stat_type=RentStatType.AVERAGE):
+def prepare_visualization_data(file_name, data_date, min_rent_amount, max_rent_amount, stat_type=RentStatType.AVERAGE):
     """
     Prepare data for visualization by loading, deduplicating and calculating statistics.
     
@@ -360,7 +366,7 @@ def prepare_visualization_data(file_name, min_rent_amount, max_rent_amount, stat
     # Get the absolute path to the JSON file
     current_dir = os.path.dirname(os.path.abspath(__file__))
     parent_dir = os.path.dirname(current_dir)
-    file_path = os.path.join(parent_dir, 'results', file_name + '.json')
+    file_path = os.path.join(current_dir, 'data', data_date, file_name + '.json')
 
     # Load and deduplicate the data
     data = load_data(file_path)
@@ -434,7 +440,7 @@ def generate_graphs(overall_data, rent_stats, rent_type, rent_type_label, show_a
                    transform=ax.get_xaxis_transform(),
                    fontweight='bold')
         
-        plt.title(f"{rent_type_label} Rent in {overall_data['city']} (All Sizes)")
+        plt.title(f"{rent_type_label} Rent (All Sizes)")
         plt.ylabel(f"{rent_type_label} Rent (€)")
         plt.tight_layout()
         
@@ -489,7 +495,7 @@ def generate_graphs(overall_data, rent_stats, rent_type, rent_type_label, show_a
                        transform=ax.get_xaxis_transform(),
                        fontweight='bold')
             
-            plt.title(f"{rent_type_label} Rent in {city} for {range_key}")
+            plt.title(f"{rent_type_label} Rent for {range_key}")
             plt.ylabel(f"{rent_type_label} Rent (€)")
             
             plt.subplots_adjust(bottom=0.01)
@@ -502,12 +508,12 @@ def generate_csv(overall_data, rent_stats, rent_type, rent_type_label, show_all_
     Generate CSV output of rent statistics and write to file.
     """
     # Create output filename based on input JSON
-    output_file = f"generated_data_{json_file_name}.csv"
+    output_file = f"generated_data_{file_name}.csv"
     
     with open(output_file, 'w', encoding='utf-8') as f:
         if show_all_sizes_in_one_graph:
             # Generate overall statistics CSV
-            f.write(f"{rent_type_label} Rent in {overall_data['city']} (All Sizes)\n")
+            f.write(f"{rent_type_label} Rent (All Sizes)\n")
             f.write("Neighborhood,Rent,Sample Size,Average Area\n")
             
             # Sort locations by rent in descending order
@@ -524,7 +530,7 @@ def generate_csv(overall_data, rent_stats, rent_type, rent_type_label, show_all_
                 rents = data[rent_type]
                 counts = data['counts']
                 
-                f.write(f"\n{rent_type_label} Rent in {city} for {range_key}\n")
+                f.write(f"\n{rent_type_label} Rent for {range_key}\n")
                 f.write("Neighborhood,Rent,Sample Size\n")
                 
                 # Sort locations by rent in descending order
@@ -537,16 +543,19 @@ def generate_csv(overall_data, rent_stats, rent_type, rent_type_label, show_all_
     print(f"Data has been written to {output_file}")
 
 # Settings:
+verbose = False
 min_rent_amount = 200
 max_rent_amount = 3000
 output_type = OutputType.CSV
 show_overall_statistics = False
-json_file_name = 'iznajmljivanje-stanovasolin'
+file_name = 'iznajmljivanje-stanova-zagreb'
+data_date = '05-02-2025'
 stat_type = RentStatType.AVERAGE
+# city_or_neighborhood = city/neighborhood
 
 # Get prepared data
 overall_data, rent_stats, rent_type, rent_type_label = prepare_visualization_data(
-    json_file_name, min_rent_amount, max_rent_amount, stat_type
+    file_name, data_date, min_rent_amount, max_rent_amount, stat_type
 )
 
 # Generate output based on type
