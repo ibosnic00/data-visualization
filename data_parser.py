@@ -14,16 +14,24 @@ class OutputType(Enum):
     GRAPH = "Graph"
     CSV = "csv"
 
+class NeighborhoodGroupingType(Enum):
+    CITY = "City"
+    NEIGHBORHOOD = "Neighborhood"
+
 # Function to parse living area (extract numeric part)
 def parse_living_area(area_str):
     return float(area_str.split(' ')[0])
 
-# Function to parse location (split city and neighborhood)
-def parse_location(location):
-    if ',' in location:
-        city, neighborhood = location.split(',', 1)
-        return city.strip(), neighborhood.strip()
-    return '', location.strip()
+# Function to parse location (use city and neighborhood fields)
+def parse_location(entry):
+    city = entry.get("city", "").strip()
+    neighborhood = entry.get("neighbourhood", "").strip()
+    
+    # If neighborhood is empty but we have city, use city as neighborhood
+    if not neighborhood and city:
+        neighborhood = city
+    
+    return city, neighborhood
 
 # Function to filter listings by living area ranges
 def filter_by_living_area(data, min_rent_amount, max_rent_amount):
@@ -42,7 +50,7 @@ def filter_by_living_area(data, min_rent_amount, max_rent_amount):
             continue
             
         living_area = parse_living_area(entry["Living Area"])
-        city, neighborhood = parse_location(entry["location"])
+        city, neighborhood = parse_location(entry)
         price = entry["price"]
         
         # Store both city and neighborhood
@@ -71,7 +79,7 @@ def calculate_average_rent(ranges):
         city_name = ''
         
         for city, neighborhood, price in entries:
-            city_or_neighborhood = city 
+            city_or_neighborhood = neighborhood if neighborhood_grouping_type == NeighborhoodGroupingType.NEIGHBORHOOD else city
             if not city_name and city:  # Store the city name for the title
                 city_name = city
             if city_or_neighborhood not in location_rents:
@@ -191,7 +199,7 @@ def calculate_rent_statistics(ranges):
         city_name = ''
         
         for city, neighborhood, price in entries:
-            city_or_neighborhood = city 
+            city_or_neighborhood = neighborhood if neighborhood_grouping_type == NeighborhoodGroupingType.NEIGHBORHOOD else city
             if not city_name and city:
                 city_name = city
             if city_or_neighborhood not in location_rents:
@@ -221,8 +229,8 @@ def calculate_overall_statistics(data, min_rent_amount, max_rent_amount):
         if entry["price"] > max_rent_amount or entry["price"] < min_rent_amount:
             continue
             
-        city, neighborhood = parse_location(entry["location"])
-        city_or_neighborhood = city
+        city, neighborhood = parse_location(entry)
+        city_or_neighborhood = neighborhood if neighborhood_grouping_type == NeighborhoodGroupingType.NEIGHBORHOOD else city
         price = entry["price"]
         living_area = parse_living_area(entry["Living Area"])
         
@@ -272,8 +280,8 @@ def is_duplicate_property(prop1, prop2, price_threshold=0.1, area_threshold=0.1)
         bool: True if properties are likely duplicates, False otherwise
     """
     # Compare locations
-    loc1_city, loc1_neighborhood = parse_location(prop1["location"])
-    loc2_city, loc2_neighborhood = parse_location(prop2["location"])
+    _, loc1_neighborhood = parse_location(prop1)
+    _, loc2_neighborhood = parse_location(prop2)
     
     if loc1_neighborhood != loc2_neighborhood:
         return False
@@ -507,8 +515,13 @@ def generate_csv(overall_data, rent_stats, rent_type, rent_type_label, show_all_
     """
     Generate CSV output of rent statistics and write to file.
     """
-    # Create output filename based on input JSON
-    output_file = f"generated_data_{file_name}.csv"
+    # Create generated_data directory if it doesn't exist
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    output_dir = os.path.join(current_dir, output_folder_name)
+    os.makedirs(output_dir, exist_ok=True)
+    
+    # Create output filename in generated_data folder
+    output_file = os.path.join(output_dir, f"generated_data_{file_name}.csv")
     
     with open(output_file, 'w', encoding='utf-8') as f:
         if show_all_sizes_in_one_graph:
@@ -548,19 +561,40 @@ min_rent_amount = 200
 max_rent_amount = 3000
 output_type = OutputType.CSV
 show_overall_statistics = False
-file_name = 'iznajmljivanje-stanova-zagreb'
-data_date = '05-02-2025'
+data_subfolder = '05-02-2025-modified'
+output_folder_name = 'generated_data'
 stat_type = RentStatType.AVERAGE
-# city_or_neighborhood = city/neighborhood
+neighborhood_grouping_type = NeighborhoodGroupingType.NEIGHBORHOOD
 
-# Get prepared data
-overall_data, rent_stats, rent_type, rent_type_label = prepare_visualization_data(
-    file_name, data_date, min_rent_amount, max_rent_amount, stat_type
-)
+# List of files to process
+files_to_process = [
+    'iznajmljivanje-stanova-karlovac',
+    'iznajmljivanje-stanova-osijek',
+    'iznajmljivanje-stanova-pula',
+    'iznajmljivanje-stanova-rijeka',
+    'iznajmljivanje-stanova-slavonski-brod',
+    'iznajmljivanje-stanova-solin',
+    'iznajmljivanje-stanova-split',
+    'iznajmljivanje-stanova-varazdin',
+    'iznajmljivanje-stanova-velika-gorica',
+    'iznajmljivanje-stanova-zadar',
+    'iznajmljivanje-stanova-zagreb'
+]
 
-# Generate output based on type
-if output_type == OutputType.GRAPH:
-    generate_graphs(overall_data, rent_stats, rent_type, rent_type_label, show_overall_statistics)
-else:  # OutputType.CSV
-    generate_csv(overall_data, rent_stats, rent_type, rent_type_label, show_overall_statistics)  
+# Process each file
+for file_name in files_to_process:
+    try:
+        print(f"\nProcessing {file_name}...")
+        # Get prepared data
+        overall_data, rent_stats, rent_type, rent_type_label = prepare_visualization_data(
+            file_name, data_subfolder, min_rent_amount, max_rent_amount, stat_type
+        )
+
+        # Generate output based on type
+        if output_type == OutputType.GRAPH:
+            generate_graphs(overall_data, rent_stats, rent_type, rent_type_label, show_overall_statistics)
+        else:  # OutputType.CSV
+            generate_csv(overall_data, rent_stats, rent_type, rent_type_label, show_overall_statistics)
+    except Exception as e:
+        print(f"Error processing {file_name}: {str(e)}")  
 

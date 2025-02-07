@@ -7,7 +7,9 @@
     "price": 150.0,
     "link": "/nekretnine/stan-radnike-1.11-8-radnika-oglas-45076724",
     "published": "07.02.2025.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Karlovac",
+    "neighbourhood": "Zapadni i rezidencijalni dijelovi"
   },
   {
     "id": "46211716",
@@ -17,7 +19,9 @@
     "price": 600.0,
     "link": "/nekretnine/dugorocni-najam-3-sobnog-stana-centar-karlovac-81.00-m2-oglas-46211716",
     "published": "05.02.2025.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Karlovac",
+    "neighbourhood": "Središnji i povijesni dijelovi"
   },
   {
     "id": "44212348",
@@ -27,7 +31,9 @@
     "price": 450.0,
     "link": "/nekretnine/2sob-stan-najam-odmah-dostupan-luscic-oglas-44212348",
     "published": "04.02.2025.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Karlovac",
+    "neighbourhood": "Istočni i južni dijelovi"
   },
   {
     "id": "46173761",
@@ -37,7 +43,9 @@
     "price": 500.0,
     "link": "/nekretnine/stan-karlovac-64.00-m2-oglas-46173761",
     "published": "03.02.2025.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Karlovac",
+    "neighbourhood": "Središnji i povijesni dijelovi"
   },
   {
     "id": "46169742",
@@ -47,7 +55,9 @@
     "price": 500.0,
     "link": "/nekretnine/stan-karlovac-40.00-m2-luscic-dugorocni-najam-oglas-46169742",
     "published": "03.02.2025.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Karlovac",
+    "neighbourhood": "Istočni i južni dijelovi"
   },
   {
     "id": "46136149",
@@ -57,7 +67,9 @@
     "price": 450.0,
     "link": "/nekretnine/stan-karlovac-64.00-m2-oglas-46136149",
     "published": "02.02.2025.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Karlovac",
+    "neighbourhood": "Središnji i povijesni dijelovi"
   },
   {
     "id": "21878383",
@@ -67,7 +79,9 @@
     "price": 500.0,
     "link": "/nekretnine/stan-karlovac-32-m2-novogradnja-oglas-21878383",
     "published": "01.02.2025.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Karlovac",
+    "neighbourhood": "Zapadni i rezidencijalni dijelovi"
   },
   {
     "id": "28016571",
@@ -77,7 +91,9 @@
     "price": 350.0,
     "link": "/nekretnine/stan-karlovac-centar-krlezina-ulica-43.00-m2-oglas-28016571",
     "published": "01.02.2025.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Karlovac",
+    "neighbourhood": "Zapadni i rezidencijalni dijelovi"
   },
   {
     "id": "46105266",
@@ -87,7 +103,9 @@
     "price": 600.0,
     "link": "/nekretnine/stan-karlovac-najam-oglas-46105266",
     "published": "31.01.2025.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Karlovac",
+    "neighbourhood": "Središnji i povijesni dijelovi"
   },
   {
     "id": "45909423",
@@ -97,7 +115,9 @@
     "price": 300.0,
     "link": "/nekretnine/garsonjera-karlovac-najam-oglas-45909423",
     "published": "24.01.2025.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Karlovac",
+    "neighbourhood": "Središnji i povijesni dijelovi"
   },
   {
     "id": "46084575",
@@ -107,7 +127,9 @@
     "price": 500.0,
     "link": "/nekretnine/stan-karlovac-67.00-m2-oglas-46084575",
     "published": "24.01.2025.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Karlovac",
+    "neighbourhood": "Središnji i povijesni dijelovi"
   },
   {
     "id": "33838899",
@@ -117,7 +139,9 @@
     "price": 10.0,
     "link": "/nekretnine/stan-karlovac-65.00-m2-grabrik-oglas-33838899",
     "published": "24.01.2025.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Karlovac",
+    "neighbourhood": "Zapadni i rezidencijalni dijelovi"
   },
   {
     "id": "46072269",
@@ -127,7 +151,9 @@
     "price": 490.0,
     "link": "/nekretnine/stan-karlovac-ul-vladka-maceka-44.00-m2-oglas-46072269",
     "published": "23.01.2025.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Karlovac",
+    "neighbourhood": "Središnji i povijesni dijelovi"
   },
   {
     "id": "45289737",
@@ -137,7 +163,9 @@
     "price": 300.0,
     "link": "/nekretnine/stan-karlovac-45.00-m2-oglas-45289737",
     "published": "23.01.2025.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Karlovac",
+    "neighbourhood": "Središnji i povijesni dijelovi"
   },
   {
     "id": "45059225",
@@ -147,7 +175,9 @@
     "price": 500.0,
     "link": "/nekretnine/stan-karlovac-59.00-m2-novogradnja-oglas-45059225",
     "published": "21.01.2025.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Karlovac",
+    "neighbourhood": "Središnji i povijesni dijelovi"
   },
   {
     "id": "44475687",
@@ -157,7 +187,9 @@
     "price": 900.0,
     "link": "/nekretnine/karlovac-3-soban-stan-radnike-oglas-44475687",
     "published": "21.01.2025.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Karlovac",
+    "neighbourhood": "Središnji i povijesni dijelovi"
   },
   {
     "id": "44810579",
@@ -167,7 +199,9 @@
     "price": 1200.0,
     "link": "/nekretnine/najam-stan-karlovac-vrbanicev-perivoj-127.13-m2-oglas-44810579",
     "published": "20.01.2025.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Karlovac",
+    "neighbourhood": "Središnji i povijesni dijelovi"
   },
   {
     "id": "42577718",
@@ -177,7 +211,9 @@
     "price": 400.0,
     "link": "/nekretnine/najam-stan-karlovac-grge-tuskana-61.35m2-oglas-42577718",
     "published": "20.01.2025.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Karlovac",
+    "neighbourhood": "Središnji i povijesni dijelovi"
   },
   {
     "id": "45655990",
@@ -187,7 +223,9 @@
     "price": 600.0,
     "link": "/nekretnine/najam-stan-radnike-karlovac-banija-60m2-oglas-45655990",
     "published": "20.01.2025.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Karlovac",
+    "neighbourhood": "Središnji i povijesni dijelovi"
   },
   {
     "id": "41156605",
@@ -197,7 +235,9 @@
     "price": 399.0,
     "link": "/nekretnine/centar-karlovac-65.00-m2-oglas-41156605",
     "published": "18.01.2025.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Karlovac",
+    "neighbourhood": "Središnji i povijesni dijelovi"
   },
   {
     "id": "45865555",
@@ -207,7 +247,9 @@
     "price": 380.0,
     "link": "/nekretnine/stan-kuci-karlovac-65.00-m2-oglas-45865555",
     "published": "27.12.2024.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Karlovac",
+    "neighbourhood": "Zapadni i rezidencijalni dijelovi"
   },
   {
     "id": "45762925",
@@ -217,7 +259,9 @@
     "price": 800.0,
     "link": "/nekretnine/karlovac-najam-2s-novog-stana-novogradnji-65m2-oglas-45762925",
     "published": "14.12.2024.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Karlovac",
+    "neighbourhood": "Istočni i južni dijelovi"
   },
   {
     "id": "45652756",
@@ -227,7 +271,9 @@
     "price": 400.0,
     "link": "/nekretnine/iznajmljujem-1-sobni-stan-grabriku-odlicna-lokacija-oglas-45652756",
     "published": "05.12.2024.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Karlovac",
+    "neighbourhood": "Zapadni i rezidencijalni dijelovi"
   },
   {
     "id": "44683175",
@@ -237,7 +283,9 @@
     "price": 600.0,
     "link": "/nekretnine/stan-karlovac-100.00-m2-oglas-44683175",
     "published": "13.11.2024.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Karlovac",
+    "neighbourhood": "Istočni i južni dijelovi"
   },
   {
     "id": "14934894",
@@ -247,7 +295,9 @@
     "price": 300.0,
     "link": "/nekretnine/stan-karlovac-40-m2-oglas-14934894",
     "published": "11.11.2024.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Karlovac",
+    "neighbourhood": "Sjeverni i prigradski dijelovi"
   },
   {
     "id": "42580182",
@@ -257,6 +307,8 @@
     "price": 650.0,
     "link": "/nekretnine/stan-karlovac-65.00-m2-oglas-42580182",
     "published": "19.08.2024.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Karlovac",
+    "neighbourhood": "Središnji i povijesni dijelovi"
   }
 ]

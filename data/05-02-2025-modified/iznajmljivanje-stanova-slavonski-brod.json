@@ -7,7 +7,9 @@
     "price": 420.0,
     "link": "/nekretnine/stan-slavonski-brod-40.00-m2-novogradnja-oglas-28448133",
     "published": "07.02.2025.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Slavonski Brod",
+    "neighbourhood": "Veća gradska naselja"
   },
   {
     "id": "46071045",
@@ -17,7 +19,9 @@
     "price": 500.0,
     "link": "/nekretnine/stan-najam-oglas-46071045",
     "published": "06.02.2025.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Slavonski Brod",
+    "neighbourhood": "Veća gradska naselja"
   },
   {
     "id": "45655792",
@@ -27,7 +31,9 @@
     "price": 350.0,
     "link": "/nekretnine/a-stampara-garsonjera-41m2-ii-kat-lift-najam-oglas-45655792",
     "published": "05.02.2025.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Slavonski Brod",
+    "neighbourhood": "Središnji dio i povijesne četvrti"
   },
   {
     "id": "36399494",
@@ -37,7 +43,9 @@
     "price": 500.0,
     "link": "/nekretnine/vukovarska-ul-dvosobni-stan-59-m2-v-kat-lift-najam-oglas-36399494",
     "published": "05.02.2025.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Slavonski Brod",
+    "neighbourhood": "Središnji dio i povijesne četvrti"
   },
   {
     "id": "38822938",
@@ -47,7 +55,9 @@
     "price": 200.0,
     "link": "/nekretnine/stan-slavonski-brod-103.00-m2-novogradnja-oglas-38822938",
     "published": "03.02.2025.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Slavonski Brod",
+    "neighbourhood": "Istočni i industrijski dijelovi"
   },
   {
     "id": "46157678",
@@ -57,7 +67,9 @@
     "price": 175.0,
     "link": "/nekretnine/najam-stana-radnike-oglas-46157678",
     "published": "01.02.2025.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Slavonski Brod",
+    "neighbourhood": "Istočni i industrijski dijelovi"
   },
   {
     "id": "46150437",
@@ -67,7 +79,9 @@
     "price": 350.0,
     "link": "/nekretnine/slavonija-1-trosobni-stan-66.00-m2.2-kat-namjesten-dugorocni-najam-oglas-46150437",
     "published": "31.01.2025.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Slavonski Brod",
+    "neighbourhood": "Istočni i industrijski dijelovi"
   },
   {
     "id": "45903458",
@@ -77,7 +91,9 @@
     "price": 600.0,
     "link": "/nekretnine/iznajmljujem-stan-dostupno-odmah-oglas-45903458",
     "published": "30.01.2025.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Slavonski Brod",
+    "neighbourhood": "Zapadni i rezidencijalni dijelovi"
   },
   {
     "id": "45998215",
@@ -87,7 +103,9 @@
     "price": 400.0,
     "link": "/nekretnine/stan-najam-slavonski-brod-59m2-oglas-45998215",
     "published": "28.01.2025.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Slavonski Brod",
+    "neighbourhood": "Središnji dio i povijesne četvrti"
   },
   {
     "id": "45433767",
@@ -97,7 +115,9 @@
     "price": 900.0,
     "link": "/nekretnine/iznajmljivanje-stan-oglas-45433767",
     "published": "24.01.2025.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Slavonski Brod",
+    "neighbourhood": "Središnji dio i povijesne četvrti"
   },
   {
     "id": "42582035",
@@ -107,7 +127,9 @@
     "price": 550.0,
     "link": "/nekretnine/stan-oglas-42582035",
     "published": "24.01.2025.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Slavonski Brod",
+    "neighbourhood": "Zapadni i rezidencijalni dijelovi"
   },
   {
     "id": "40393195",
@@ -117,7 +139,9 @@
     "price": 750.0,
     "link": "/nekretnine/luxury-family-apartment-tomi-oglas-40393195",
     "published": "22.01.2025.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Slavonski Brod",
+    "neighbourhood": "Središnji dio i povijesne četvrti"
   },
   {
     "id": "45982762",
@@ -127,7 +151,9 @@
     "price": 600.0,
     "link": "/nekretnine/trosoban-stan-dugorocan-najam-parkiralistem-slavonija-1-68-m2-oglas-45982762",
     "published": "14.01.2025.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Slavonski Brod",
+    "neighbourhood": "Istočni i industrijski dijelovi"
   },
   {
     "id": "13250864",
@@ -137,7 +163,9 @@
     "price": 400.0,
     "link": "/nekretnine/stan-slavonski-brod-44-m2-oglas-13250864",
     "published": "10.01.2025.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Slavonski Brod",
+    "neighbourhood": "Središnji dio i povijesne četvrti"
   },
   {
     "id": "45323813",
@@ -147,7 +175,9 @@
     "price": 430.0,
     "link": "/nekretnine/stan-slavonski-brod-39.00-m2-oglas-45323813",
     "published": "07.01.2025.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Slavonski Brod",
+    "neighbourhood": "Središnji dio i povijesne četvrti"
   },
   {
     "id": "45871902",
@@ -157,7 +187,9 @@
     "price": 400.0,
     "link": "/nekretnine/stan-slavonski-brod-62.00-m2-oglas-45871902",
     "published": "30.12.2024.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Slavonski Brod",
+    "neighbourhood": "Veća gradska naselja"
   },
   {
     "id": "45770817",
@@ -167,7 +199,9 @@
     "price": 400.0,
     "link": "/nekretnine/stan-slavonski-brod-68.00-m2-oglas-45770817",
     "published": "15.12.2024.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Slavonski Brod",
+    "neighbourhood": "Zapadni i rezidencijalni dijelovi"
   },
   {
     "id": "45742821",
@@ -177,7 +211,9 @@
     "price": 350.0,
     "link": "/nekretnine/stan-slavonski-brod-oglas-45742821",
     "published": "11.12.2024.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Slavonski Brod",
+    "neighbourhood": "Istočni i industrijski dijelovi"
   },
   {
     "id": "44392088",
@@ -187,7 +223,9 @@
     "price": 500.0,
     "link": "/nekretnine/najam-stana-centar-grada-oglas-44392088",
     "published": "11.12.2024.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Slavonski Brod",
+    "neighbourhood": "Središnji dio i povijesne četvrti"
   },
   {
     "id": "45135796",
@@ -197,7 +235,9 @@
     "price": 400.0,
     "link": "/nekretnine/stan-slavonski-brod-65.00-m2-oglas-45135796",
     "published": "14.10.2024.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Slavonski Brod",
+    "neighbourhood": "Istočni i industrijski dijelovi"
   },
   {
     "id": "35086743",
@@ -207,7 +247,9 @@
     "price": 300.0,
     "link": "/nekretnine/stan-slavonski-brod-45.00-m2-oglas-35086743",
     "published": "14.10.2024.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Slavonski Brod",
+    "neighbourhood": "Zapadni i rezidencijalni dijelovi"
   },
   {
     "id": "31854502",
@@ -217,7 +259,9 @@
     "price": 120.0,
     "link": "/nekretnine/iznajmljujem-stan-studente-blizina-svih-fakulteta-5min-oglas-31854502",
     "published": "17.09.2024.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Slavonski Brod",
+    "neighbourhood": "Zapadni i rezidencijalni dijelovi"
   },
   {
     "id": "42973753",
@@ -227,7 +271,9 @@
     "price": 300.0,
     "link": "/nekretnine/dajem-najam-dva-jednosobna-stana-oglas-42973753",
     "published": "12.09.2024.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Slavonski Brod",
+    "neighbourhood": "Istočni i industrijski dijelovi"
   },
   {
     "id": "43870320",
@@ -237,6 +283,8 @@
     "price": 600.0,
     "link": "/nekretnine/d-rakovca-trosoban-stan-61-m2-ii-kat-najam-oglas-43870320",
     "published": "15.06.2024.",
-    "detailCheck": false
+    "detailCheck": false,
+    "city": "Slavonski Brod",
+    "neighbourhood": "Središnji dio i povijesne četvrti"
   }
 ]
