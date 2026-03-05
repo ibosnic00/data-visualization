@@ -561,7 +561,8 @@ min_rent_amount = 200
 max_rent_amount = 3000
 output_type = OutputType.CSV
 show_overall_statistics = False
-data_subfolder = '05-02-2025-modified'
+# Update this subfolder when generating a new dataset
+data_subfolder = '05-03-2026-modified'
 output_folder_name = 'generated_data'
 stat_type = RentStatType.AVERAGE
 neighborhood_grouping_type = NeighborhoodGroupingType.NEIGHBORHOOD

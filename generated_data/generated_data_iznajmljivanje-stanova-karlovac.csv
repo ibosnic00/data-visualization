@@ -1,31 +1,30 @@
 
 Average Rent for 1 - 35 m2
 Neighborhood,Rent,Sample Size
-Zapadni i rezidencijalni dijelovi,€425,2
+Sjeverni i prigradski dijelovi,€300,1
 Središnji i povijesni dijelovi,€300,1
 
 Average Rent for 36 - 50 m2
 Neighborhood,Rent,Sample Size
-Istočni i južni dijelovi,€500,1
-Zapadni i rezidencijalni dijelovi,€400,1
-Središnji i povijesni dijelovi,€396,3
-Sjeverni i prigradski dijelovi,€300,1
+Središnji i povijesni dijelovi,€675,2
+Other,€650,1
+Istočni i južni dijelovi,€650,1
 
 Average Rent for 51 - 65 m2
 Neighborhood,Rent,Sample Size
-Istočni i južni dijelovi,€625,2
-Središnji i povijesni dijelovi,€516,6
-Zapadni i rezidencijalni dijelovi,€380,1
+Središnji i povijesni dijelovi,€650,1
+Zapadni i rezidencijalni dijelovi,€630,1
 
 Average Rent for 66 - 80 m2
 Neighborhood,Rent,Sample Size
-Istočni i južni dijelovi,€600,1
-Središnji i povijesni dijelovi,€500,1
+Središnji i povijesni dijelovi,€900,1
+Istočni i južni dijelovi,€700,1
 
 Average Rent for 81 - 100 m2
 Neighborhood,Rent,Sample Size
-Središnji i povijesni dijelovi,€750,2
+Zapadni i rezidencijalni dijelovi,€1000,1
+Središnji i povijesni dijelovi,€900,1
+Istočni i južni dijelovi,€805,2
 
 Average Rent for 101+ m2
 Neighborhood,Rent,Sample Size
-Središnji i povijesni dijelovi,€1200,1

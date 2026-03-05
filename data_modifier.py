@@ -93,8 +93,9 @@ def modify_json_files():
 
 
 #settings
-data_dir = "data/05-02-2025"
-output_dir = "data/05-02-2025-modified"
+# Update this date folder when generating a new dataset
+data_dir = "data/05-03-2026"
+output_dir = "data/05-03-2026-modified"
 
 if __name__ == "__main__":
     modify_json_files()
