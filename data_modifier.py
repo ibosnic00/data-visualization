@@ -3,7 +3,10 @@ import os
 from collections import defaultdict
 
 def load_neighbourhood_config():
-    with open('neighbourhood_configuration.json', 'r', encoding='utf-8') as f:
+    # Load shared neighbourhood/zone configuration used by roiCalculator
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    config_path = os.path.join(base_dir, '..', 'roiCalculator', 'public', 'neighbourhood_configuration.json')
+    with open(config_path, 'r', encoding='utf-8') as f:
         return json.load(f)
 
 def get_neighbourhood(location, neighbourhoods_dict):

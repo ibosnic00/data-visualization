@@ -563,7 +563,7 @@ output_type = OutputType.CSV
 show_overall_statistics = False
 # Update this subfolder when generating a new dataset
 data_subfolder = '05-03-2026-modified'
-output_folder_name = 'generated_data'
+output_folder_name = 'generated_data_03-2026'
 stat_type = RentStatType.AVERAGE
 neighborhood_grouping_type = NeighborhoodGroupingType.NEIGHBORHOOD
 

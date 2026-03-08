@@ -9,7 +9,7 @@
     "published": "04.03.2026.",
     "detailCheck": false,
     "city": "Karlovac",
-    "neighbourhood": "Zapadni i rezidencijalni dijelovi"
+    "neighbourhood": "Zona 2"
   },
   {
     "id": "22343682",
@@ -21,7 +21,7 @@
     "published": "28.02.2026.",
     "detailCheck": false,
     "city": "Karlovac",
-    "neighbourhood": "Istočni i južni dijelovi"
+    "neighbourhood": "Zona 3"
   },
   {
     "id": "49369126",
@@ -33,7 +33,7 @@
     "published": "28.02.2026.",
     "detailCheck": false,
     "city": "Karlovac",
-    "neighbourhood": "Središnji i povijesni dijelovi"
+    "neighbourhood": "Zona 1"
   },
   {
     "id": "49277961",
@@ -45,7 +45,7 @@
     "published": "25.02.2026.",
     "detailCheck": false,
     "city": "Karlovac",
-    "neighbourhood": "Zapadni i rezidencijalni dijelovi"
+    "neighbourhood": "Zona 2"
   },
   {
     "id": "49859344",
@@ -57,7 +57,7 @@
     "published": "22.02.2026.",
     "detailCheck": false,
     "city": "Karlovac",
-    "neighbourhood": "Sjeverni i prigradski dijelovi"
+    "neighbourhood": "Zona 4"
   },
   {
     "id": "42996608",
@@ -69,7 +69,7 @@
     "published": "21.02.2026.",
     "detailCheck": false,
     "city": "Karlovac",
-    "neighbourhood": "Istočni i južni dijelovi"
+    "neighbourhood": "Zona 3"
   },
   {
     "id": "43313760",
@@ -81,7 +81,7 @@
     "published": "19.02.2026.",
     "detailCheck": false,
     "city": "Karlovac",
-    "neighbourhood": "Zapadni i rezidencijalni dijelovi"
+    "neighbourhood": "Zona 2"
   },
   {
     "id": "47861999",
@@ -93,7 +93,7 @@
     "published": "18.02.2026.",
     "detailCheck": false,
     "city": "Karlovac",
-    "neighbourhood": "Istočni i južni dijelovi"
+    "neighbourhood": "Zona 3"
   },
   {
     "id": "44475687",
@@ -105,7 +105,7 @@
     "published": "18.02.2026.",
     "detailCheck": false,
     "city": "Karlovac",
-    "neighbourhood": "Središnji i povijesni dijelovi"
+    "neighbourhood": "Zona 1"
   },
   {
     "id": "46597227",
@@ -117,7 +117,7 @@
     "published": "18.02.2026.",
     "detailCheck": false,
     "city": "Karlovac",
-    "neighbourhood": "Središnji i povijesni dijelovi"
+    "neighbourhood": "Zona 1"
   },
   {
     "id": "44683175",
@@ -129,7 +129,7 @@
     "published": "13.02.2026.",
     "detailCheck": false,
     "city": "Karlovac",
-    "neighbourhood": "Istočni i južni dijelovi"
+    "neighbourhood": "Zona 3"
   },
   {
     "id": "48162362",
@@ -153,7 +153,7 @@
     "published": "25.01.2026.",
     "detailCheck": false,
     "city": "Karlovac",
-    "neighbourhood": "Istočni i južni dijelovi"
+    "neighbourhood": "Zona 3"
   },
   {
     "id": "34761420",
@@ -165,7 +165,7 @@
     "published": "05.01.2026.",
     "detailCheck": false,
     "city": "Karlovac",
-    "neighbourhood": "Središnji i povijesni dijelovi"
+    "neighbourhood": "Zona 1"
   },
   {
     "id": "46497005",
@@ -177,7 +177,7 @@
     "published": "19.10.2025.",
     "detailCheck": false,
     "city": "Karlovac",
-    "neighbourhood": "Središnji i povijesni dijelovi"
+    "neighbourhood": "Zona 1"
   },
   {
     "id": "42580182",
@@ -189,7 +189,7 @@
     "published": "19.10.2025.",
     "detailCheck": false,
     "city": "Karlovac",
-    "neighbourhood": "Središnji i povijesni dijelovi"
+    "neighbourhood": "Zona 1"
   },
   {
     "id": "42996608",
@@ -201,6 +201,6 @@
     "published": "21.02.2026.",
     "detailCheck": false,
     "city": "Karlovac",
-    "neighbourhood": "Istočni i južni dijelovi"
+    "neighbourhood": "Zona 3"
   }
 ]

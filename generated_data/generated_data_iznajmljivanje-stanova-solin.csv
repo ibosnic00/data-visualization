@@ -1,37 +1,37 @@
 
 Average Rent for 1 - 35 m2
 Neighborhood,Rent,Sample Size
-Južni i obalni dijelovi,€550,1
-Istočni i sjeverni dijelovi,€550,1
-Zapadni i rezidencijalni dijelovi,€500,2
-Središnji i povijesni dijelovi,€400,2
+Zona 3,€550,1
+Zona 4,€550,1
+Zona 2,€500,2
+Zona 1,€400,2
 
 Average Rent for 36 - 50 m2
 Neighborhood,Rent,Sample Size
-Središnji i povijesni dijelovi,€775,4
-Zapadni i rezidencijalni dijelovi,€600,4
+Zona 1,€775,4
+Zona 2,€600,4
 
 Average Rent for 51 - 65 m2
 Neighborhood,Rent,Sample Size
-Južni i obalni dijelovi,€1350,1
-Središnji i povijesni dijelovi,€892,7
-Zapadni i rezidencijalni dijelovi,€808,6
+Zona 3,€1350,1
+Zona 1,€892,7
+Zona 2,€808,6
 
 Average Rent for 66 - 80 m2
 Neighborhood,Rent,Sample Size
-Zapadni i rezidencijalni dijelovi,€1157,7
-Središnji i povijesni dijelovi,€1050,2
+Zona 2,€1157,7
+Zona 1,€1050,2
 
 Average Rent for 81 - 100 m2
 Neighborhood,Rent,Sample Size
-Središnji i povijesni dijelovi,€1450,2
-Istočni i sjeverni dijelovi,€1200,1
-Južni i obalni dijelovi,€1000,1
-Zapadni i rezidencijalni dijelovi,€900,2
+Zona 1,€1450,2
+Zona 4,€1200,1
+Zona 3,€1000,1
+Zona 2,€900,2
 
 Average Rent for 101+ m2
 Neighborhood,Rent,Sample Size
-Istočni i sjeverni dijelovi,€1200,1
-Središnji i povijesni dijelovi,€1133,3
-Južni i obalni dijelovi,€999,1
-Zapadni i rezidencijalni dijelovi,€870,4
+Zona 4,€1200,1
+Zona 1,€1133,3
+Zona 3,€999,1
+Zona 2,€870,4

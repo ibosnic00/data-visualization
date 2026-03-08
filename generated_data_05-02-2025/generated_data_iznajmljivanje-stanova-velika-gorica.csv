@@ -1,39 +1,30 @@
 
 Average Rent for 1 - 35 m2
 Neighborhood,Rent,Sample Size
-Zona 1,€576,8
-Zona 3,€477,5
-Other,€400,1
+Zona 1,€453,3
 
 Average Rent for 36 - 50 m2
 Neighborhood,Rent,Sample Size
-Zona 3,€661,4
-Zona 1,€623,16
+Zona 2,€800,1
+Zona 1,€625,9
+Zona 3,€600,1
 
 Average Rent for 51 - 65 m2
 Neighborhood,Rent,Sample Size
-Zona 2,€1100,1
-Zona 1,€992,11
-Zona 4,€800,1
-Other,€800,1
-Zona 3,€664,13
+Zona 3,€750,1
+Zona 1,€656,5
 
 Average Rent for 66 - 80 m2
 Neighborhood,Rent,Sample Size
-Zona 4,€846,3
-Zona 2,€800,3
-Zona 3,€705,12
-Zona 1,€693,12
+Zona 2,€1056,5
+Zona 1,€783,3
 
 Average Rent for 81 - 100 m2
 Neighborhood,Rent,Sample Size
-Zona 1,€1043,8
-Zona 3,€895,7
-Zona 2,€617,2
+Zona 2,€966,3
+Zona 1,€600,4
+Zona 3,€550,2
 
 Average Rent for 101+ m2
 Neighborhood,Rent,Sample Size
-Zona 1,€1816,3
-Zona 2,€1750,2
-Zona 3,€1483,6
-Zona 4,€1233,3
+Zona 1,€503,6
